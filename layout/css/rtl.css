@@ -1,0 +1,27 @@
+body{
+  direction: rtl;
+}
+.language{
+  margin-right: 10px;
+}
+
+.about,.welcome p, .welcome h3{
+  text-align: right;
+}
+.counter img{
+  margin-left: auto;
+  margin-right: 25%;
+}
+.circles-thumb{
+  left:auto;
+  right:80%;
+}
+.page-style-one .box:first-child{
+  padding-left: 0px;
+}
+.page-style-one .box:last-child{
+  padding-right: 10px;
+}
+.page-style-one .page-title {
+    padding-right: 20px;
+}

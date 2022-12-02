@@ -1,0 +1,19 @@
+body{
+  direction: rtl;
+}
+nav > ul > li a i {
+    margin-left: 5px;
+}
+.start-btn i{
+  margin-left: 5px;
+}
+.table .start-btn{
+  float: right;
+}
+.stats .box:nth-child(1) .stat{
+  margin-left: 10px;
+}
+.section-title i {
+    margin-left: 5px;
+    margin-right: 0px;
+}

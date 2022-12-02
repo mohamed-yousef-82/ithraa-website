@@ -1,0 +1,115 @@
+@media only screen and (max-width: 768px) {
+  .header-top{
+    background: #521c10;
+  }
+  .search-form input[type=text]{
+    width: 80%;
+  }
+  .slider .details{
+    display: none;
+  }
+  .accordion ul li {
+    display: flex;
+    display: -webkit-flex;
+    flex-flow: column nowrap;
+    -ms-flex-flow: column nowrap;
+    -webkit-flex-flow: column nowrap;
+    padding: 10px;
+}
+.footer-bottom .row .box {
+    flex-flow: column;
+}
+  .nav .container{
+    -webkit-flex-flow: column wrap;
+    flex-flow: column wrap;
+-ms-flex-flow: column wrap;
+  }
+  .item-filter-show{
+    width: 100% !important;
+  }
+  .counter li div{
+    margin: auto;
+  }
+  .header-top-container{
+    background: #2c3e50;
+  }
+  .contact-data{
+    width: 100%;
+    margin-right: 0px;
+  }
+  .header-left-shadow,.header-right-shadow{
+    display: none;
+  }
+  .top-contact {
+    display: flex;
+    flex-flow: column-reverse;
+    justify-content: space-between;
+    width: 100%;
+}
+.social-icons{
+  width: 100%;
+}
+.header-top .container {
+    display: flex;
+    flex-flow: column-reverse;
+    justify-content: space-between;
+}
+  .header-top{
+    flex-flow: column;
+  }
+  .shadow,.small-shadow,.nav-container img,.circles{
+    display: none;
+  }
+  .nav{
+    background: #b32d2c;
+  }
+.items-slider-horizontal ul li p{
+  display: none;
+}
+.items-slider-horizontal ul li img{
+  padding: 0px;
+}
+.items-slider-horizontal ul li > div{
+  padding: 3px;
+}
+  #menu-icon{
+    color: #fff;
+    background: #2c3e50;
+    margin-top: 10px;
+    display: block;
+    font-size: 35px;
+  }
+  .social-icons{
+    margin-right: 0px;
+    margin-bottom: 10px;
+  }
+  /*.slider .details{
+    display: none;
+  }*/
+  .slide-show{
+    width: 100%;
+  }
+  .prev{
+    left: 20px;
+  }
+  .search{
+    padding-right: 10px;
+  }
+  .header-top{
+    height: auto;
+    background: none;
+  }
+  .header-top-container{
+      height: auto;
+  }
+  .search{
+    padding-right: 0px;
+  }
+  .social-icons a{
+    margin-left: 3px;
+  }
+.progress{
+  height: auto;
+  background: none;
+}
+  }

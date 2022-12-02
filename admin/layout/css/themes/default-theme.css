@@ -1,0 +1,9 @@
+.nav{
+  background: #ddd;
+}
+.nav ul > li > a {
+  color: #3498db;
+}
+.active{
+  color: #000 !important;
+}
